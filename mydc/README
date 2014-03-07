@@ -1,0 +1,11 @@
+CMPS 109 Summer 2013, Assignment 2
+Submitted by: Robert Calef (rcalef@ucsc.edu)
+Edited and added to starter code provided by: 
+Wesley Mackey (mackey@soe.ucsc.edu)
+
+Seems to have desired output for all provided test files,
+however my implementation of multiplication does not use
+and/or did not need a stack of pairs of bigints. Similarly,
+the provided code for divide did not use a stack of pairs
+of bigints, and there did not seem to be any need to modify
+it to do such.

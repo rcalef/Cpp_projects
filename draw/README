@@ -1,0 +1,13 @@
+CMPS 109 Summer 2013, Assignment 3
+Submitted by: Robert Calef (rcalef@ucsc.edu)
+Edited and added to starter code provided by: 
+Wesley Mackey (mackey@soe.ucsc.edu)
+
+Ps2pdf ran on the output files seems to generate pdfs which
+have the same images for all provided test files, except with
+different page header/trailers. 
+
+Running mk.tests on my files produces
+what looks like an error message when ran on errors.dr but this isn't
+any sort of crash since the running ./draw on errors.dr normally
+simply prints errors, and exits with a status of 1 without memory leak.
